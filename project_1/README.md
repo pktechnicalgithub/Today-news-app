@@ -1,5 +1,6 @@
 # project_1
 
+![My Project Image]([images/myimage.png](https://github.com/pktechnicalgithub/Today-news-app/blob/main/project_1/news%20app%20project.png?raw=true))
 A new Flutter project.
 
 ## Getting Started
