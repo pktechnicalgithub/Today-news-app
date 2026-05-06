@@ -1,6 +1,6 @@
 # project_1
 
-![My Project Image](images/myimage.png](https://raw.githubusercontent.com/pktechnicalgithub/Today-news-app/refs/heads/main/project_1/news%20app%20project.png)
+![News App Banner](https://raw.githubusercontent.com/pktechnicalgithub/Today-news-app/refs/heads/main/project_1/news%20app%20project.png)
 A new Flutter project.
 
 ## Getting Started
